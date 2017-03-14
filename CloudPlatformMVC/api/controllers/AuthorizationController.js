@@ -1,23 +1,6 @@
-kip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @sanya-ralhan
- Sign out
- Watch 2
-  Star 10
-  Fork 8 charlesmwang/facerec-server-node-sails
- Code  Issues 8  Pull requests 0  Projects 0  Wiki  Pulse  Graphs
-Branch: master Find file Copy pathfacerec-server-node-sails/api/controllers/AuthController.js
-7da4fb1  on Feb 17, 2014
- Charles Wang Working on ssl
-0 contributors
-RawBlameHistory     
-268 lines (252 sloc)  7.59 KB
+
 /**
- * AuthController
+ * AuthorizationController
  *
  * @module      :: Controller
  * @description	:: A set of functions called `actions`.
